@@ -1,13 +1,13 @@
 
 
-<h1 align="center">Hi 👋, I'm Ethical Programmer</h1>
-<h3 align="center">A passionate discord bot & website developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Vicky Pandey (TerrorBhai)</h1>
+<h3 align="center">A passionate discord bot & website developer from India</h3>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400">
 
 # 💫 About Me:
-🌱 I’m currently learning Next.js, React.js
+🌱 I’m currently learning Next.js, React.js and many more.
 <br>
-👯 I’m looking to collaborate on [DiscoBase](https://github.com/ethical-programmer/discobase)<br>💬 Ask me about HTML, CSS, JavaScript, Discord.js, MongoDB<br>📫 How to reach me aqpdeveloper@gmail.com<br>
+👯 I’m looking to collaborate on [DiscoBase](https://github.com/vickyhubhai)<br>💬 Ask me about HTML, CSS, JavaScript, Discord.js, MongoDB<br>📫 How to reach me aqpdeveloper@gmail.com<br>
 
 
 ## 🌐 Socials:

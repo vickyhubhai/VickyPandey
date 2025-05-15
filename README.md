@@ -7,7 +7,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Next.js, React.js and many more.
 <br>
-👯 I’m looking to collaborate on [GitHub](https://github.com/vickyhubhai)<br>💬 Ask me about HTML, CSS, JavaScript, Discord.js, MongoDB<br>📫 How to reach me aqpdeveloper@gmail.com<br>
+👯 I’m looking to collaborate on [GitHub](https://github.com/vickyhubhai)<br>💬 Ask me about HTML, CSS, JavaScript, Discord.js, MongoDB<br>📫 How to reach me thegreatlordvicky185@gmail.com<br>
 
 
 ## 🌐 Socials:
